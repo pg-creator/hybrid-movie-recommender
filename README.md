@@ -9,8 +9,8 @@ El resultado es un recomendador content-based enriquecido con señales “objeti
 📌 Objetivo
 
 Dada una película, el sistema devuelve un Top-5 de películas similares basándose en:
--Contenido y personas (cast + director + géneros + palabras clave).
--Metadatos (puntuación media, duración, recencia).
+- Contenido y personas (cast + director + géneros + palabras clave).
+- Metadatos (puntuación media, duración, recencia).
 
 🧰 Tecnologías y librerías
 - Python
